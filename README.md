@@ -6,6 +6,8 @@ NOTE: the goal for this exercise is to ONLY create & edit JavaScript. Leave the 
 
 ## Directions
 
+- Create a new JavaScript file called scripts.js. The HTML file already has the script tag.
+
 - Create a function called addTitle(), which will find the h1 element and adds the following title inside of it: "Harry Potter Character Selection".
 
 - Create a function called flexIt(), which should find the first element with the class called 'needFlex' and add the class flexIt to that element and then toggle the flexIt class on and off.
